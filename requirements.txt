@@ -8,3 +8,5 @@ tensorflow
 uvicorn[standard]
 fastapi
 python-multipart
+seaborn
+mltools
