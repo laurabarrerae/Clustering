@@ -10,3 +10,4 @@ fastapi
 python-multipart
 seaborn
 mltools
+sklearn_extra

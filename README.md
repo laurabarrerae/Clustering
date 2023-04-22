@@ -1,8 +1,6 @@
 # Clustering
 Solution Lab II - Clustering -Machine Learning II
 
-# Machine-Learning-II
-
 **Presented by:**
 
   Laura Isabel Barrera Echeverri
