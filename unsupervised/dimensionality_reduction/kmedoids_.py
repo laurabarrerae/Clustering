@@ -57,7 +57,6 @@ class K_Medoids:
         self.X_in_clusters= self.transform(self.X)
 
     def transform(self,X):
-        
         distances = np.sum((X[:, :, np.newaxis] - self.X[self.medoids_idx, :].T[np.newaxis, :, :]) ** 2, axis=1)
         return np.argmin(distances, axis=1)
          

@@ -7,6 +7,7 @@ class K_Means:
         self.K=K
         self.max_iters=max_iters
         np.random.seed(123)
+        self.centroids 
     
     def fit(self,X,K,max_iters):
         self.X=X
