@@ -23,7 +23,7 @@ unsupervised/
 
          /kmeans_.py
 
-         /kmedoids.py
+         /kmedoids_.py
 
          /pca.py
 
