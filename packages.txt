@@ -5,3 +5,5 @@ pipenv install -r requirements.txt
 pipenv shell
 
 uvicorn main:app --reload
+
+pip install pillow
